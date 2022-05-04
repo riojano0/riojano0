@@ -7,12 +7,13 @@ I'm a preacher about the [unit-test](https://en.wikipedia.org/wiki/Unit_testing)
 
 ## What I'm doing?
 
-👷 - I'm currently working on [EC-Systems](https://www.ec-systems.de/en/home/) how Team Leader in the powerful  tool for documentation called SMC.
+👷 - I'm currently working on [TechGenies](https://techgenies.com/) how Java backend developer.
 <br/>
-💻 - We are currently working with:
-- [Java 11](https://www.baeldung.com/java-11-new-features) 
-- [Javascript ES5](https://www.w3schools.com/js/js_es5.asp)
-- [XSL](https://www.w3schools.com/xml/xsl_intro.asp)
+💻 - I'm currently working with MoveMedical with the stack:
+- [Java 8](https://www.baeldung.com/java-8-new-features) 
+- [Guice](https://github.com/google/guice)
+- [Vert.x](https://vertx.io/)
+- [MySql](https://www.mysql.com/)
 
 ## 
 

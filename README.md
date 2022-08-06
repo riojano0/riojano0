@@ -22,4 +22,9 @@ I'm a preacher about the [unit-test](https://en.wikipedia.org/wiki/Unit_testing)
 
 <a href="https://www.linkedin.com/in/riojano0/">
 <img align="left" alt="Daniel LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
-</a>
+</a></br></br>
+
+----
+### Do you want to support me because I helped you or do you [like/was usefull] one of my POCs? 
+
+ You can buy me a [Ko-fi <img src="https://api.iconify.design/simple-icons/kofi.svg"/>](https://ko-fi.com/riojano0) =]
